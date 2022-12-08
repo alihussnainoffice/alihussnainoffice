@@ -8,7 +8,7 @@ I'm a self-taught software engineer who started his career when he was 16 years 
 
 * 🌍  I'm based in Lahore
 * 🖥️  See my portfolio at [Twitter](http://twitter.com/Alichampion456)
-* ✉️  You can contact me at [alihussnainghaffar456@gmail.com](mailto:alihussnainghaffar456@gmail.com)
+* ✉️  You can contact me at [alihussnainoffice@gmail.com](mailto:alihussnainoffice@gmail.com)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on NestJs
 * ⚡  On a secret not I'm champion but I often don’t anyone
@@ -64,6 +64,6 @@ src="https://img.shields.io/twitter/follow/Alichampion456?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ali-husnain-dmechs"><img src="https://github-readme-stats.vercel.app/api?username=ali-husnain-dmechs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ali-husnain-dmechs's GitHub stats" /></a>
+<a href="http://www.github.com/alihussnainoffice"><img src="https://github-readme-stats.vercel.app/api?username=alihussnainoffice&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali hussnain office GitHub stats" /></a>
 
-<a href="http://www.github.com/ali-husnain-dmechs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-husnain-dmechs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/alihussnainoffice"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alihussnainoffice&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
